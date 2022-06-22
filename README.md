@@ -53,13 +53,15 @@ plt.axis('off')
 
 ## Output:
 ### Input Image
-![SS1](https://user-images.githubusercontent.com/75234807/173192404-3d4898da-3280-4d49-8009-4c81e91b1139.png)
+![1](https://user-images.githubusercontent.com/75235759/175002123-7635f777-29c3-47e0-9a31-ff46b210997d.png)
 
 ### Opening
-![SS2](https://user-images.githubusercontent.com/75234807/173192407-36714a2b-339a-4e0a-af0d-7d91ace9eb2c.png)
+![2](https://user-images.githubusercontent.com/75235759/175002161-ca265766-ef70-4609-9730-2f5e374b9ddf.png)
+
 
 ### Closing
-![SS3](https://user-images.githubusercontent.com/75234807/173192412-428c7aa8-8cea-410e-abd9-4541a6eb0e6a.png)
+![3](https://user-images.githubusercontent.com/75235759/175002244-9f504883-6ab3-42b8-96cd-fd5e8b9f06ec.png)
+
 
 ## Result:
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
