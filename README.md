@@ -33,7 +33,7 @@ import matplotlib.pyplot as plt
 # Create the Text using cv2.putText
 text_image = np.zeros((100,440),dtype = 'uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX = 3
-cv2.putText(text_image,"Dinesh",(5,70),font,2,(255),5,cv2.LINE_AA)
+cv2.putText(text_image,"Surendar",(5,70),font,2,(255),5,cv2.LINE_AA)
 plt.title("Original Image")
 plt.imshow(text_image,'magma')
 plt.axis('off')
@@ -53,14 +53,15 @@ plt.axis('off')
 
 ## Output:
 ### Input Image
-![1](https://user-images.githubusercontent.com/75235759/175002123-7635f777-29c3-47e0-9a31-ff46b210997d.png)
+![ori](https://github.com/Surendar14/Opening-and-Closing/assets/75235759/e5cbd2db-0039-4499-b48f-c9ff082a193f)
+
 
 ### Opening
-![2](https://user-images.githubusercontent.com/75235759/175002161-ca265766-ef70-4609-9730-2f5e374b9ddf.png)
+![opening](https://github.com/Surendar14/Opening-and-Closing/assets/75235759/538a65cd-e8b5-4560-9509-91de0d28fe9e)
 
 
 ### Closing
-![3](https://user-images.githubusercontent.com/75235759/175002244-9f504883-6ab3-42b8-96cd-fd5e8b9f06ec.png)
+![closing](https://github.com/Surendar14/Opening-and-Closing/assets/75235759/5dafffa5-2205-4d1f-9259-e765eb312864)
 
 
 ## Result:
