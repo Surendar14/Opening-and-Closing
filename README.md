@@ -25,7 +25,7 @@ Developed by : Surendar S
 Registeration Number:212220230051
 ```
 
-``` Python
+```Python
 # Import the necessary packages
 import cv2
 import numpy as np
